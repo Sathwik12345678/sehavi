@@ -133,7 +133,7 @@ img { display: block; max-width: 100%; }
   position: relative;
   display: grid;
   grid-template-columns: 44% 56%;
-  min-height: 220px;
+  min-height: 620px;
   background: radial-gradient(circle at top left, rgba(255, 245, 214, 0.7), transparent 40%), linear-gradient(135deg, #d9b26a 0%, #f0d9a6 32%, #f5ecdf 100%);
   overflow: hidden;
 }
